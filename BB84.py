@@ -41,4 +41,4 @@ def BB84(keyLength):
     return key[1:]
 
 print BB84(5)
-            
+#Benjamin Collins
