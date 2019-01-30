@@ -119,3 +119,4 @@ pyplot.xlabel("Time (1/100 Rabi Period)", fontsize = fontsi)
 
 pyplot.subplots_adjust(hspace = .0)
 pyplot.show()
+#Benjamin Collins
