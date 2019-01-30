@@ -1,4 +1,4 @@
-"""BB84"""
+"""BB84 with Decoherence"""
 from __future__ import division
 import numpy
 import random
@@ -46,4 +46,4 @@ def BB84(keyLength):
     return key[1:]
 
 print BB84(5)
-            
+#Benjamin Collins
